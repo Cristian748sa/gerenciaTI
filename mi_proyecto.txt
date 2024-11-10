@@ -1,0 +1,24 @@
+AUTOR:CRISTIAN JOSE RODRIGUEZ ROJAS
+Actividad		
+------------------------- 
+misa 
+cena
+llamada
+dormir
+-------------------------
+Meses
+-------------------------
+enero
+febrero
+marzo
+abril 
+mayo
+junio
+julio
+agosto
+setiembre
+octubre
+noviembre
+diciembre
+------------------------
+fin!!!
